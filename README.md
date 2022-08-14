@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shame 
+- 👋 Hi, I’m Hisham
 - 👀 I’m interested in Front-end 
 - 🌱 I’m currently learning Full-stack 
 - 💞️ I’m looking to collaborate on Tec
