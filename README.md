@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hisham
-- 👀 I’m interested in Front-end 
+- 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning Full-stack 
 - 💞️ I’m looking to collaborate on Tec
 - 📫 How to reach me on my projects
